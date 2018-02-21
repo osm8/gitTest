@@ -1,1 +1,1 @@
-console.log('Test version 1.0.0');
+console.log('Test version 1.0.2');
