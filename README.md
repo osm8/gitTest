@@ -1,1 +1,1 @@
-Test version 1.0.2
+Test version 1.0.2-beta
